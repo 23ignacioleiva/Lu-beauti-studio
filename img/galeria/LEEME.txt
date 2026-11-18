@@ -1,0 +1,2 @@
+Poné acá las fotos de los trabajos (JPG o WEBP, idealmente de 1200 px de ancho como máximo).
+Después agregalas en js/config.js, en la parte "galeria".
